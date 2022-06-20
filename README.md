@@ -17,7 +17,7 @@
   
    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt=""src="" />
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   
 </div><br/>
 <h5>- A Tecnologia move o mundo </h5>
 <p>- E-mail : Leandromarques.n@gmail.com </p>
