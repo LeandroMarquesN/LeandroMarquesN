@@ -1,4 +1,4 @@
-# Ola !! Seja muito bem vindo ao meu perfil!! Sou o **Leandro Marques** e **Desenvolvedor-Frontend**🖐️
+# Ola !! Seja muito bem vindo ao meu perfil!! Sou o **Leandro Marques** <br>**Desenvolvedor-Frontend**🖐️
 ### These are my social networks 🔗
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-marques-nascimento-2a899746/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leandro.marquesnascimento.73/)
